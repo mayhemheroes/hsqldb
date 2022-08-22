@@ -1,0 +1,4 @@
+<!-- $Id: versions.ent 6148 2020-06-27 16:14:16Z unsaved $ -->
+
+<!ENTITY SqlTool_rev "5972">
+<!ENTITY SqlFile_rev "6140">
